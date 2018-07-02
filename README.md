@@ -1,0 +1,1 @@
+Ce repository contient des programmes ruby qui affiche réspectivement le prénom des membres de notre groupe.
